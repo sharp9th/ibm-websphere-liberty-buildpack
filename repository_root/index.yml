@@ -1,0 +1,5 @@
+# version: uri
+---
+beta:
+    uri: http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/beta/wlp-beta-runtime-2014.6.0.0.jar
+    license: http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/beta/lafiles/en.html

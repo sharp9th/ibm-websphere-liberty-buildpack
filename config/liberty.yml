@@ -15,8 +15,8 @@
 
 # Configuration for the Liberty container
 ---
-repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/"
-version: 8.5.+
+repository_root: "https://github.com/sharp9th/ibm-websphere-liberty-buildpack/repository_root"
+version: beta
 minify: false
 liberty_repository_properties:
   useRepository: true
